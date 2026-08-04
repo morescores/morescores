@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://moez.art/zarts/moecake.png" width="200" alt="moecake"></td>
+    <td valign="top"><a href="#"><img src="https://moez.art/zarts/moecake.png" width="200" alt="moecake"></a></td>
     <td valign="top">moe zart moe zart</td>
   </tr>
 </table>
