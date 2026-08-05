@@ -10,3 +10,11 @@
 <p align="left">
   <img src="https://moez.art/zarts/moeling.png" alt="Moe Zart" width="200px"/>
 </p>
+
+
+<img align="left" width="200" src="your-image-url.png">
+
+Your text goes here. It will automatically wrap around the right side of the image. Make sure to provide enough text so the wrapping effect is clearly visible.
+<br clear="left"/>
+
+This line starts below the image because the float clear tag was used.
