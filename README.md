@@ -1,7 +1,7 @@
 ## ˖ ݁♬⋆.˚𝄞. 
 
-<p align="center">
-  <img src="https://moez.art/zarts/MoeZart.png" alt="Moe Zart"/>
+<p align="left">
+  <img src="https://moez.art/zarts/moeling.png" alt="Moe Zart"/>
 </p>
 
 <p align="center">
