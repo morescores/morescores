@@ -1,7 +1,7 @@
 ## ˖ ݁♬⋆.˚𝄞. 
 
 
-  <img align="left" width="230" src="https://moez.art/zarts/moeling.png" alt="Moe Zart"/>
+ <a href="#"><img align="left" width="230" src="https://moez.art/zarts/moeling.png" alt="Moe Zart"/></a>
 
 
 
@@ -11,4 +11,5 @@
 <p>hi i like moe zart</p>
 <p>i'm 23 i use he/him</p>
 <p>afk a lot, sorry if i miss your message! feel free to sit with me</p>
+<a href="#"><img align="center" height="128" src="https://moez.art/img/cyc.gif"></a>
 <br clear="left"/>
