@@ -10,7 +10,7 @@
   </a>
   
 <p>hi i like <a href="https://moez.art" target="_blank">moe zart</a></p>
-<br>i'm 23, he/him, more about me
+<br>i'm 23, he/him, more about me<br>
 
 <p>afk a lot, sorry if i miss your message! feel free to sit with me</p>
 
