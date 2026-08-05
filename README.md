@@ -9,11 +9,9 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hickorykit&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
   </a>
   
-<p>hi i like <a href="https://moez.art" target="_blank">moe zart</a>
- 
- <br>
- i'm 23 he/him 
-</p>
+<p>hi i like <a href="https://moez.art" target="_blank">moe zart</a></p>
+
+<p>i'm 23 i use he/him</p>
 
 <p>afk a lot, sorry if i miss your message! feel free to sit with me</p>
 
