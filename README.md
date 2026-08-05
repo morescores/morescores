@@ -17,6 +17,6 @@
 
 <p>don't involve me in argument i dont car</p>
 
-<a href="#"><img align="center" height="128" src="https://moez.art/img/cyc.gif"></a>
-<a href="#"><img align="center" height="128" src="https://moez.art/img/cyc.gif
+<a href="#"><img align="center" height="128px" src="https://moez.art/img/cyc.gif"></a>
+<a href="#"><img align="center" height="128px" src="https://moez.art/img/cyc.gif"></a>
 <br clear="left"/>
