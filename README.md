@@ -1,4 +1,4 @@
-## ˖ ♬⋆.˚𝄞. 
+## ˖♬⋆.˚𝄞. 
 
 
  <a href="#"><img align="left" width="230" src="https://moez.art/zarts/moeling.png" alt="Moe Zart"/></a>
