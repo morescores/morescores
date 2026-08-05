@@ -13,8 +13,6 @@
  
  <br>
  i'm 23 he/him 
- <br>
- Moe Zart 
 </p>
 
 <p>afk a lot, sorry if i miss your message! feel free to sit with me</p>
