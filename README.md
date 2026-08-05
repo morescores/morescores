@@ -29,7 +29,5 @@
   <a href="#"><img height="32" src="https://moez.art/img/piano.gif"></a>
   <a href="#"><img height="32" src="https://moez.art/img/friends.png"></a>
   <a href="#"><img height="32" src="https://moez.art/img/hypermoezartation.png"></a>
-  <a href="#"><img height="32" src="https://moez.art/img/keeper.png"></a>
-  <a href="#"><img height="32" src="https://moez.art/img/keeper.png"></a>
   
 <br clear="left"/>
