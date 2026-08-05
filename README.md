@@ -15,7 +15,7 @@
 
 <p>afk a lot, sorry if i miss your message! feel free to sit with me</p>
 
-<p>don't involve me in argument i dont car</p>
+<p>dont involve me in argument i dont car ❤️</p>
 
 <a href="#"><img align="center" height="128px" src="https://moez.art/img/cyc.gif"></a>
 <a href="#"><img align="center" width="128px" src="https://moez.art/img/keeper.png"></a>
