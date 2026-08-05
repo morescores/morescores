@@ -12,7 +12,7 @@
 <p>hi i like <a href="https://moez.art" target="_blank">moe zart</a>
  
  <br>
- i'm 23 he/him
+ i'm 23 he/him 
  <br>
  Moe Zart 
 </p>
@@ -29,5 +29,6 @@
   <a href="#"><img height="32" src="https://moez.art/img/piano.gif"></a>
   <a href="#"><img height="32" src="https://moez.art/img/friends.png"></a>
   <a href="#"><img height="32" src="https://moez.art/img/hypermoezartation.png"></a>
+  <a href="#"><img height="32" src="https://moez.art/img/moe.png"></a>
   
 <br clear="left"/>
