@@ -1,8 +1,8 @@
 ## ˖ ݁♬⋆.˚𝄞. 
 
-<p align="left">
-  <img src="https://moez.art/zarts/moeling.png" alt="Moe Zart" width="200px"/>
-</p>
+
+  <img align="left" width="200" src="https://moez.art/zarts/moeling.png" alt="Moe Zart" width="200px"/>
+
 
 <br clear="left"/> <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=hickorykit&redirect=true">
