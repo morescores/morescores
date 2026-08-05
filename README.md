@@ -1,4 +1,4 @@
-<center>## Among us babies are born</center>
+## ˖ ݁♬⋆.˚𝄞. 
 
 <p align="center">
   <img src="https://moez.art/zarts/MoeZart.png" alt="Moe Zart"/>
