@@ -1,12 +1,5 @@
 ## HI
-
-<table>
-  <tr>
-    <td valign="top"><a href="#"><img src="https://moez.art/zarts/moecake.png" width="200" alt="moecake"></a></td>
-    <td valign="top">moe zart moe zart</td>
-  </tr>
-</table>
-
+<a href="#"><img src="https://moez.art/zarts/MoeZart.png" width=200></a>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=hickorykit&redirect=true">
