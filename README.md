@@ -13,7 +13,7 @@
 
 <p>i'm 23 i use he/him</p>
 
-<p>afk a lot, sorry if i miss your message! feel free to sit with me</p>
+<p>afk a lot, sorry if i miss your message! idm if you sit with me</p>
 
 <p>dont involve me in fight. ok ❤️</p>
 
